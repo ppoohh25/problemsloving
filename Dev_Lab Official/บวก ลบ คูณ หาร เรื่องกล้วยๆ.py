@@ -1,0 +1,8 @@
+a = input()
+b = input()
+aint = int(a)
+bint = int(b)
+print(a,'+',b,'=',aint+bint)
+print(a,'-',b,'=',aint-bint)
+print(a,'*',b,'=',aint*bint)
+print(a,'/',b,'=',int(aint/bint))
